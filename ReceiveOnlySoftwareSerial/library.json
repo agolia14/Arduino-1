@@ -1,0 +1,19 @@
+{
+  "name": "ReceiveOnlySoftwareSerial",
+  "keywords": "ReceiveOnlySoftwareSerial, begin, listen, end, isListening, overflow, peek, write, read, available, flush, handle_interrupt",
+  "description": "Arduino Library for EM-18 RFID Readers",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/agolia14/PlatformIO/new/master/ReceiveOnlySoftwareSerial.git"
+  },
+  "dependencies":
+  {
+    "name": "inttypes, Stream",
+    "authors": "",
+    "frameworks": "arduino"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
