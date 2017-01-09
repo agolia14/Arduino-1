@@ -5,7 +5,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/agolia14/PlatformIO/new/master/ReceiveOnlySoftwareSerial.git"
+    "url": "https://github.com/agolia14/PlatformIO/tree/master/ReceiveOnlySoftwareSerial"
   },
   "dependencies":
   {
