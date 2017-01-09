@@ -1,11 +1,11 @@
 {
   "name": "RFID",
-  "keywords": "read, cmp",
+  "keywords": "Rfid, read, cmp",
   "description": "Arduino Library for EM-18 RFID Readers",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/agolia14/PlatformIO/new/master/RFID.git"
+    "url": "https://github.com/agolia14/PlatformIO/tree/master/RFID"
   },
   "dependencies":
   {
