@@ -1,0 +1,19 @@
+{
+  "name": "RFID",
+  "keywords": "read, cmp",
+  "description": "Arduino Library for EM-18 RFID Readers",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/agolia14/PlatformIO/new/master/RFID.git"
+  },
+  "dependencies":
+  {
+    "name": "ReceieveOnlySoftwareSerial",
+    "authors": "Nick Gammon",
+    "frameworks": "arduino"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
