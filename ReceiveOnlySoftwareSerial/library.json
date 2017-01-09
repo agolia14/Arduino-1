@@ -2,6 +2,12 @@
   "name": "ReceiveOnlySoftwareSerial",
   "keywords": "ReceiveOnlySoftwareSerial, begin, listen, end, isListening, overflow, peek, write, read, available, flush, handle_interrupt",
   "description": "Arduino Library for EM-18 RFID Readers",
+  "authors":
+  [
+    {
+      "name": "Nick Gammon",
+    }
+  ],
   "repository":
   {
     "type": "git",
